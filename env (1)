@@ -1,0 +1,14 @@
+# ── DISCORD ───────────────────────────────────────────────────────────────────
+BOT_TOKEN=TOKEN BOT
+DISCORD_CLIENT_ID=CLIENT ID
+DISCORD_CLIENT_SECRET=Secret ID
+DISCORD_REDIRECT_URI=http://localhost:3001/auth/callback
+
+# ── API SERVER ────────────────────────────────────────────────────────────────
+PORT=3001
+API_BASE=http://localhost:3001
+SESSION_SECRET=ganti_ini_dengan_string_random_panjang
+BOT_SECRET=ganti_ini_juga_dengan_string_random
+
+# ── DASHBOARD ─────────────────────────────────────────────────────────────────
+DASHBOARD_URL=http://localhost:5173
